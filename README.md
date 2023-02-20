@@ -1,4 +1,4 @@
-
+[![Build Status](https://2000081092.visualstudio.com/test/_apis/build/status/ajayb3.java?branchName=main)](https://2000081092.visualstudio.com/test/_build/latest?definitionId=10&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
